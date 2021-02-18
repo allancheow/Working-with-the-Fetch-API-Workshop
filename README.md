@@ -4,7 +4,7 @@ Workshop Series
 <br>
 
 # Overview
-Lesson on how to use the Fetch API to fetch resources. 
+Lesson on how to use the Fetch API to fetch resources.  
 Step by step tutorial of building `Fetch API` with videos after attempt. 
 <br>
 
